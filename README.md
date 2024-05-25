@@ -1,2 +1,0 @@
-# newedsel.github.io
-#up
