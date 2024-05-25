@@ -1,11 +1,11 @@
 body{
-    background-image: (CHESS2.jpg);
+    background-image: url("PHOTOS/screen2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 h1{
-    color: rgb(235, 103, 15);
+    color: rgb(13, 248, 131);
     font-size: 100px;
     font-family: Arial;
     text-align: center;
@@ -82,7 +82,7 @@ p{
     font-size: 30px;
     font-family: Georgia;
     text-align: left;
-    color: rgb(237, 245, 11);
+    color: rgb(208, 211, 25);
   }
 
   #context img{
